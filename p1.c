@@ -1,3 +1,6 @@
+/* P1. */
+/* seu_nome : Kamila Borba Ribeiro*/
+/* sua_matricula : 11811EBI026*/
 #include <stdio.h>
 
 int main()
